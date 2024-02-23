@@ -13,7 +13,7 @@ git clone https://github.com/Bansikah/todo-app-maven
 `mvn clean install`
 ### Run the Application
 3. Run the application using the generated JAR file:
-java -jar target/<jar file>
+java -jar target/...jar file
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
