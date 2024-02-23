@@ -17,7 +17,6 @@ public class View {
         promptAddTodo();
         displayTodos();
         promptDeleteTodo();
-        // Continue with any other functionality you need
     }
 
     public void displayTodos() {
