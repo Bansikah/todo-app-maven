@@ -7,7 +7,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-@suppress("source")
+@SuppressWarnings("unused")
 public class TodoListTest {
     private TodoList todoList;
 
